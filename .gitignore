@@ -1,6 +1,4 @@
-.venv/
 __pycache__/
-*.pth
 *.h5
 *.tif
 *.tiff
